@@ -102,7 +102,7 @@ lms/
 │       ├── services/      # API services
 │       ├── store/         # Redux store
 │       ├── types/         # TypeScript types
-│       └── utils/         # Utility functions
+│       └── context         # authentication context
 │
 └── server/               # Backend Node.js application
     ├── middleware/      # Custom middleware
